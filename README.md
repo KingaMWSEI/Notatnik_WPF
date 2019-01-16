@@ -1,2 +1,5 @@
 # Notatnik_WPF
-Aplikacja WPF_Notatnik
+Własna implementacja Notatnika. 
+- zapisywanie i odczytywanie plików
+- dwukowanie
+- dwujęzyczność
